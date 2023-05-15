@@ -6,6 +6,6 @@ public class Ejercicio {
 	
 	System.out.println("Hola");
 		
-	System.err.println("commit de eloy");
+	System.out.println("commit de eloy");
 	}
 	}
